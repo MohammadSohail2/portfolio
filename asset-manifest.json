@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e690b6aa.chunk.css",
+    "main.js": "/static/js/main.a5cf4c95.chunk.js",
+    "main.js.map": "/static/js/main.a5cf4c95.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.543e3e97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.543e3e97.js.map",
+    "static/js/2.50cedd9c.chunk.js": "/static/js/2.50cedd9c.chunk.js",
+    "static/js/2.50cedd9c.chunk.js.map": "/static/js/2.50cedd9c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c43a85f3f90a2fd38abfa33544889df1.js": "/precache-manifest.c43a85f3f90a2fd38abfa33544889df1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e690b6aa.chunk.css.map": "/static/css/main.e690b6aa.chunk.css.map",
+    "static/js/2.50cedd9c.chunk.js.LICENSE.txt": "/static/js/2.50cedd9c.chunk.js.LICENSE.txt",
+    "static/media/Sohail.jpg": "/static/media/Sohail.5cbbd87d.jpg",
+    "static/media/c.jpg": "/static/media/c.61e3a393.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543e3e97.js",
+    "static/js/2.50cedd9c.chunk.js",
+    "static/css/main.e690b6aa.chunk.css",
+    "static/js/main.a5cf4c95.chunk.js"
+  ]
+}
