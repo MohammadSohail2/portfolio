@@ -157,7 +157,7 @@
             </div>
         </section>
         <footer>
-            <a href=""><i class="angle double up icon"></i></a>
+            <a id="button"><i class="angle double up icon"></i></a>
             <p>Copyright <i class="copyright outline  icon"></i> 2020 Mohammad Sohail.</p>
         </footer>
     </div>
@@ -178,5 +178,23 @@
     })();
 </script>
 <!-- /GetButton.io widget -->
+<script>
+    var btn = $('#button');
+
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 300) {
+            btn.addClass('show');
+        } else {
+            btn.removeClass('show');
+        }
+    });
+
+    btn.on('click', function (e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: 0 }, '300');
+    });
+
+
+</script>
 
 </html>
